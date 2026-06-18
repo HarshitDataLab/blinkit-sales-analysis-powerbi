@@ -90,13 +90,6 @@ The dashboard provides an interactive view of key business metrics and helps sta
 
 ---
 
-## Dashboard Preview
-
-<img width="1452" height="839" alt="Screenshot 2026-06-19 015855" src="https://github.com/user-attachments/assets/20b832f3-cd08-472f-9d80-cb1f920974e8" />
-
-
----
-
 ## Author
 
 Harshit Pal
